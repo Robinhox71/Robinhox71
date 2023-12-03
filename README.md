@@ -1,10 +1,13 @@
-<img align="right" alt="Rafa-Js" height="" width="" src="https://cdn.discordapp.com/attachments/1180311524405944410/1180644384635637800/eu.gif?ex=657e2bc4&is=656bb6c4&hm=3f313a8fae0629165c09b01121b0afc5584fd4b2f8004f001788ab8da23e22ae&">
 ### Ahoy pessoal 👋
 Sou o Robinhox71
+<img align="right" alt="Rafa-Js" height="" width="" src="https://cdn.discordapp.com/attachments/1180311524405944410/1180644384635637800/eu.gif?ex=657e2bc4&is=656bb6c4&hm=3f313a8fae0629165c09b01121b0afc5584fd4b2f8004f001788ab8da23e22ae&">
+
+
 
 
 - 🔭 Não estou trabalhando no momento, mas estou procurando
 - 🌱 Estou estudando com o objetivo de ser um desenvolvedor Full Stack
+- 😄 Se eu depender da sorte tô f@did0
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
