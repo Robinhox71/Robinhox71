@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div align="center">  
+
   -->
   <br>
   <br>
@@ -50,12 +50,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/augusto-da-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<!-- Contador de visitas
+
 <div align="center">
-  <br><p><b>Visitors Count</b></p>  
+  <br><p><b>Contador de Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robinhox71}/count.svg" /></p> 
-<br></div>
- -->
+</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24bff&height=160&section=footer&text=Valeu+por+Visitar!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
