@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <br></div>
  -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24bff&height=160&section=footer&text=Thank+you+for+visiting+me!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24bff&height=160&section=footer&text=Valeu+por+Visitar!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
