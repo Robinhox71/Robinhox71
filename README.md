@@ -1,9 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201265&height=160&section=header&text=Bem+Vindo!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 ### Ahoy pessoal 👋
+<img align="right" alt="Rafa-Js" height="" width="" src="https://cdn.discordapp.com/attachments/1180311524405944410/1180644384635637800/eu.gif?ex=657e2bc4&is=656bb6c4&hm=3f313a8fae0629165c09b01121b0afc5584fd4b2f8004f001788ab8da23e22ae" autoplay="true">
 Sou o Robinhox71
-<img align="right" alt="Rafa-Js" height="" width="" src="https://cdn.discordapp.com/attachments/1180311524405944410/1180644384635637800/eu.gif?ex=657e2bc4&is=656bb6c4&hm=3f313a8fae0629165c09b01121b0afc5584fd4b2f8004f001788ab8da23e22ae&">
-
-
-
 
 - 🔭 Não estou trabalhando no momento, mas estou procurando
 - 🌱 Estou estudando com o objetivo de ser um desenvolvedor Full Stack
