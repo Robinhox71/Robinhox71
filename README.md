@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201265&height=160&section=header&text=Bem+Vindo!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24bff&height=160&section=header&text=Bem+Vindo!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 ### Ahoy pessoal 👋
 <img align="right" alt="Rafa-Js" height="" width="" src="https://cdn.discordapp.com/attachments/1180311524405944410/1180644384635637800/eu.gif?ex=657e2bc4&is=656bb6c4&hm=3f313a8fae0629165c09b01121b0afc5584fd4b2f8004f001788ab8da23e22ae" autoplay="true">
 Sou o Robinhox71
@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-</div>
   -->
   ##
 
@@ -45,3 +39,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/augusto-da-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<!-- Contador de visitas
+<div align="center">
+  <br><p><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robinhox71}/count.svg" /></p> 
+<br></div>
+ -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24bff&height=160&section=footer&text=Thank+you+for+visiting+me!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
