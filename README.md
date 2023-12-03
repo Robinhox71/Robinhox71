@@ -29,15 +29,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
-  ##
 <div align="center">  
-  <img width="40%" height="" src="https://github-readme-stats.vercel.app/api?username=Robinhox71&show_icons=true&count_private=true&hide_border=true&title_color=c24bff&icon_color=c24bff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="33%" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinhox71&layout=compact&hide_border=true&title_color=c24bff&text_color=c24bff&bg_color=0d1117" />
+  -->
+  
+<div align="center">
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Robinhox71&show_icons=true&count_private=true&hide_border=true&title_color=c24bff&icon_color=c24bff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinhox71&layout=compact&hide_border=true&title_color=c24bff&text_color=c24bff&bg_color=0d1117" />
 </div>
 
 
-<div> 
+<div align="center">  
  	<a href="https://www.twitch.tv/robinhox71" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/6RzfGe53" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:augustocostameira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
