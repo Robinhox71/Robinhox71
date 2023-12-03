@@ -56,11 +56,5 @@ Here are some ideas to get you started:
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robinhox71}/count.svg" /></p> 
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/Robinhox71/Robinhox71/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24bff&height=160&section=footer&text=Valeu+por+Visitar!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
