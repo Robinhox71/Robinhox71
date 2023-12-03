@@ -38,8 +38,8 @@ Here are some ideas to get you started:
   
 
 <div align="center">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Robinhox71&show_icons=true&count_private=true&hide_border=true&title_color=c24bff&icon_color=c24bff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinhox71&layout=compact&hide_border=true&title_color=c24bff&text_color=c24bff&bg_color=0d1117" />
+  <img width="" height="195px" src="https://github-readme-stats.vercel.app/api?username=Robinhox71&show_icons=true&count_private=true&hide_border=true&title_color=c24bff&icon_color=c24bff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinhox71&layout=compact&hide_border=true&title_color=c24bff&text_color=c24bff&bg_color=0d1117" />
 </div>
 
 
