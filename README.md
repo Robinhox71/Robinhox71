@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24bff&height=160&section=header&text=Bem+Vindo(a)!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<h1>Ahoy pessoal 👋</h1>
+
 <img align="right" alt="Rafa-Js" height="" width="" src="https://cdn.discordapp.com/attachments/1180311524405944410/1180644384635637800/eu.gif?ex=657e2bc4&is=656bb6c4&hm=3f313a8fae0629165c09b01121b0afc5584fd4b2f8004f001788ab8da23e22ae" autoplay="true">
+
+<h1>Ahoy pessoal 👋</h1>
+
+
+
 <h2>Sou o Robinhox71</h2>
 
 - 🔭 Não estou trabalhando no momento, mas estou procurando
@@ -31,9 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   -->
-  <br>
-  <br>
-  <br>
   <br>
   
 
