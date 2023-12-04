@@ -4,8 +4,6 @@
 
 <h1>Ahoy pessoal 👋</h1>
 
-
-
 <h2>Sou o Robinhox71</h2>
 
 - 🔭 Não estou trabalhando no momento, mas estou procurando
@@ -36,6 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   -->
+  <br>
   <br>
   <br>
   
