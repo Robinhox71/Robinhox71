@@ -9,7 +9,9 @@
 - 🔭 Não estou trabalhando no momento, mas estou procurando
 - 🌱 Estou estudando com o objetivo de ser um desenvolvedor Full Stack
 - 😄 Se eu depender da sorte tô f@did0
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
+  <br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,10 +36,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   -->
-  <br>
-  <br>
-  <br>
-  
+
+<br>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Robinhox71&show_icons=true&count_private=true&hide_border=true&title_color=c24bff&icon_color=c24bff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
