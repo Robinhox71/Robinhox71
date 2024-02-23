@@ -8,7 +8,6 @@
 
 - 🔭 Não estou trabalhando no momento, mas estou procurando
 - 🌱 Estou estudando com o objetivo de ser um desenvolvedor Full Stack
-- 😄 Se eu depender da sorte tô f@did0
 <div style="display: inline_block">
   <br>
   <br>
@@ -61,4 +60,4 @@ Here are some ideas to get you started:
 </div>
 
 
-<img width=100% src="https://camo.githubusercontent.com/a74291cb8aee1bba3c8da91a7e6563f9360d37b0f6a4483d6261315442dc37b2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d633234626666266865696768743d3136302673656374696f6e3d666f6f74657226746578743d56616c65752b706f722b566973697461722126666f6e7453697a653d333026666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3830"/>
+
