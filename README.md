@@ -43,12 +43,12 @@ Here are some ideas to get you started:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinhox71&layout=compact&hide_border=true&title_color=c24bff&text_color=c24bff&bg_color=0d1117" />
 </div>
 
-
+<!--
 <div align="center">
   <br><p><b>Contador de Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robinhox71}/count.svg" /></p> 
 </div>
-
+-->
 <br>
 
 <div align="center">  
