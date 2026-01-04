@@ -8,8 +8,8 @@
 
 - 🔭 Não estou trabalhando no momento, mas estou procurando
 - 🌱 Estou estudando com o objetivo de ser um desenvolvedor Full Stack
-<div style="display: inline_block">
-  <br>
+
+<p align="center">
   <br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,39 +18,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  </div>
+</p>
   
-<!--
-**Robinhox71/Robinhox71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-<br>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Robinhox71&show_icons=true&count_private=true&hide_border=true&title_color=c24bff&icon_color=c24bff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinhox71&layout=compact&hide_border=true&title_color=c24bff&text_color=c24bff&bg_color=0d1117" />
-</div>
-  -->
-
-  
-<!--
-<div align="center">
-  <br><p><b>Contador de Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robinhox71}/count.svg" /></p> 
-</div>
--->
 <br>
 
 <div align="center">  
